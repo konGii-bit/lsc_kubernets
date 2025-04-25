@@ -17,7 +17,7 @@ A simple Kubernetes setup using:
 ## Usage
 
 1. **Configure environment variables**  
-   Edit the `.env` file to customize ports, PVC names, and other settings.
+   Create `.env` from `.env.example` file to customize ports, PVC names, and other settings.
 
 2. **Render Kubernetes manifests**
 
