@@ -1,0 +1,13 @@
+.env
+
+.yaml
+!.yaml.template
+
+*.swp
+*.swo
+*~
+
+.vscode/
+.idea/
+.DS_Store
+
